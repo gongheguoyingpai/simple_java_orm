@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datasource>
   <type>MYSQL</type>
-  <url>202.204.54.221</url>
+  <url>XX.XX.XX.XX</url>
   <port>3306</port>
   <dbname>fu</dbname>
   <username>root</username>
